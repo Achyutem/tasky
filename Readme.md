@@ -1,6 +1,9 @@
 ## TODO CLI
 This is a cli based TODO list written in python with interactive userface and colors.
 
+#Preview
+![Preview Image](ss.png)
+
 ### Dependencies 
 - typer
 - rich
